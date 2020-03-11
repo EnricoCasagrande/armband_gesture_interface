@@ -1,7 +1,7 @@
 # Bachelor Thesis Repository
 ## Design and implementation of a gesture-based interface relying upon physiological signal analysis.
 An exercise on gesture recognition using [myo armband](https://www.myo.com) via neural network (tensorflow library).
-The exercise start from code of [exelban](https://github.com/exelban/myo-armband-nn)
+The exercise start from code of [exelban](https://github.com/exelban/myo-armband-nn).
 
 ## Requirement
 **Library** | **Version**
