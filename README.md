@@ -1,6 +1,7 @@
-# armband
+# Bachelor Thesis Repo
+# Armband
 An exercise on gesture recognition using [myo armband](https://www.myo.com) via neural network (tensorflow library).
-The exercise start from code of [exelban](https://github.com/exelban/myo-armband-nn)]
+The exercise start from code of [exelban](https://github.com/exelban/myo-armband-nn)
 
 ## Requirement
 **Library** | **Version**
@@ -75,3 +76,6 @@ Accuracy on Test-Set: 98.27% (19235 / 19573)
 | ReLu |
 | Dropout |
 | **Softmax_linear** |
+
+## Contributors
+The implementation and data-gathering processes were conducted by Enrico Casagrande and Alberto Ghiotto with the help and supervision of Prof. Riccardo Berta.
