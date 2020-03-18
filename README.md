@@ -79,3 +79,6 @@ Accuracy on Test-Set: 98.27% (19235 / 19573)
 
 ## Contributors
 The implementation and data-gathering processes were conducted by Enrico Casagrande and Alberto Ghiotto with the help and supervision of Prof. Riccardo Berta.
+
+* Enrico Casagrande: erri.casagrande@gmail.com
+* Alberto Ghiotto: alberto.ghiotto@hotmail.it
